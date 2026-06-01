@@ -1,4 +1,14 @@
-# made with gemini 
+"""
+Generador de Números de la Suerte Personalizado
+
+Este script automatiza la selección de números aleatorios bajo criterios específicos:
+- Filtros por dígitos específicos.
+- Inyección de números del Almanaque Bristol (6, 14, 23, 33, 42).
+- Relaciones matemáticas y visuales con números clave (7, 13, 17).
+
+Generado en colaboración con Gemini (Google AI).
+Fecha: Junio 2026
+"""
 
 import random
 
